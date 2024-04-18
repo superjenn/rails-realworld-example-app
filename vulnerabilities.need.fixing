@@ -1,3 +1,4 @@
 Total: 110 (UNKNOWN: 0, LOW: 2, MEDIUM: 45, HIGH: 55, CRITICAL: 8)
 │ activerecord         │ CVE-2022-32224      │ CRITICAL │        │                   │ ~> 5.2.8, >= 5.2.8.1, ~> 6.0.5, >= 6.0.5.1, ~> 6.1.6, >=    │ Possible RCE escalation bug with Serialized Columns in       │
 │ activesupport        │ CVE-2020-8165       │ CRITICAL │        │                   │ ~> 5.2.4, >= 5.2.4.3, >= 6.0.3.1                            │ potentially unintended unmarshalling of user-provided        │
+│ devise               │ CVE-2019-5421       │ CRITICAL │        │ 4.2.0             │ >= 4.6.0                                                    │ Plataformatec Devise version 4.5.0 and earlier, using the    │
