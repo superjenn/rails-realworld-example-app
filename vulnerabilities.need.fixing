@@ -1,0 +1,2 @@
+Total: 110 (UNKNOWN: 0, LOW: 2, MEDIUM: 45, HIGH: 55, CRITICAL: 8)
+│ activerecord         │ CVE-2022-32224      │ CRITICAL │        │                   │ ~> 5.2.8, >= 5.2.8.1, ~> 6.0.5, >= 6.0.5.1, ~> 6.1.6, >=    │ Possible RCE escalation bug with Serialized Columns in       │
