@@ -3,3 +3,4 @@ Total: 110 (UNKNOWN: 0, LOW: 2, MEDIUM: 45, HIGH: 55, CRITICAL: 8)
 │ activesupport        │ CVE-2020-8165       │ CRITICAL │        │                   │ ~> 5.2.4, >= 5.2.4.3, >= 6.0.3.1                            │ potentially unintended unmarshalling of user-provided        │
 │ devise               │ CVE-2019-5421       │ CRITICAL │        │ 4.2.0             │ >= 4.6.0                                                    │ Plataformatec Devise version 4.5.0 and earlier, using the    │
 │ nokogiri             │ CVE-2016-4658       │ CRITICAL │        │ 1.6.8             │ >= 1.7.1                                                    │ libxml2: Use after free via namespace node in XPointer       │
+│ puma                 │ CVE-2022-24790      │ CRITICAL │        │ 3.4.0             │ ~> 4.3.12, >= 5.6.4                                         │ http request smuggling vulnerabilities                       │
